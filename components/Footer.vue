@@ -17,13 +17,13 @@
 						<div class="footer__contact__icon">
 							<img src="~/assets/img/icon_phone.png" />
 						</div>
-						<p class="footer__contact__text">0952652942</p>
+						<p class="footer__contact__text">05-5350198</p>
 					</li>
 					<li class="footer__contact__item">
 						<div class="footer__contact__icon">
 							<img src="~/assets/img/icon_mail.png" />
 						</div>
-						<p class="footer__contact__text">annie.lin@gush-energy.com</p>
+						<p class="footer__contact__text">maggie.liu@gush-energy.com</p>
 					</li>
 					<li class="footer__contact__item">
 						<div class="footer__contact__icon">

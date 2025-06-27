@@ -14,7 +14,7 @@ const handleSubmit = () => {
 		sortContent = encodeURIComponent(form.value.contactContent),
 		letterMain = `您好：%0D%0A${sortContent}%0D%0A%0D%0A`,
 		senderInfo = `以下是我的聯繫資訊：%0D%0A${sortName}%0D%0A${sortMobile}%0D%0A${sortEmail}`,
-		recipient = "kevin.yang@gush-energy.com",
+		recipient = "maggie.liu@gush-energy.com",
 		mailtoLink = `mailto:${recipient}?subject=聯繫表單提交&body=${letterMain}%0D%0A${senderInfo}`;
 
 	window.location.href = mailtoLink;

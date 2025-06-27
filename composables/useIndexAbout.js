@@ -26,6 +26,62 @@ export function useIndexAbout() {
 			link: "/about",
 			path: "DJI_0508.jpg",
 		},
+		{
+			id: "about4",
+		   title: "高雄廠房393.12KW竣工",
+			description:
+				"2024年4月17日掛錶",
+			link: "/about",
+			path: "DJI_0628.jpg",
+		},
+		{
+			id: "about5",
+		   title: "屏東崁頂98.4KW竣工",
+			description:
+				"2025年5月19日掛錶",
+			link: "/about",
+			path: "jpg0519.jpg",
+		},
+		{
+			id: "about6",
+		   title: "高雄廠房178.06KW竣工",
+			description:
+				"2025年6月25日掛錶",
+			link: "/about",
+			path: "jpg0522.jpg",
+		},
+		{
+			id: "about7",
+		   title: "斗六廠房750.6KW施工中",
+			description:
+				"2025年6月26日掛錶",
+			link: "/about",
+			path: "jpg0514.jpg",
+		},
+		{
+			id: "about8",
+		   title: "台中菇舍1329.36KW施工中",
+			description:
+				"預計2025年7月31日掛錶",
+			link: "/about",
+			path: "jpg0518.jpg",
+		},
+		{
+			id: "about9",
+		   title: "義竹魚電344.44KW施工中",
+			description:
+				"預計2025年6月30日掛錶",
+			link: "/about",
+			path: "jpg0520.jpg",
+		},
+		{
+			id: "about10",
+		   title: "義竹魚電496.495KW施工中",
+			description:
+				"預計2025年6月30日掛錶",
+			link: "/about",
+			path: "jpg0521.jpg",
+		},		
 	]);
 	const aboutDataActive = ref(0);
 	const nowAboutData = computed(() => aboutData.value[aboutDataActive.value]);
