@@ -59,15 +59,15 @@ export function useIndexAbout() {
 			path: "jpg0514.jpg",
 		},
 		{
-			id: "about8",
+			id: "about10",
 		   title: "台中菇舍1329.36KW竣工",
 			description:
-				"預計2025年7月31日掛錶",
+				"預計2025年10月31日掛錶",
 			link: "/about",
 			path: "jpg0518.jpg",
 		},
 		{
-			id: "about9",
+			id: "about8",
 		   title: "義竹魚電344.44KW竣工",
 			description:
 				"2025年6月30日掛錶",
@@ -75,8 +75,17 @@ export function useIndexAbout() {
 			path: "jpg0520.jpg",
 		},
 		{
-			id: "about10",
+			id: "about9",
 		   title: "義竹魚電496.495KW竣工",
+			description:
+				"2025年10月31日掛錶",
+			link: "/about",
+			path: "jpg0521.jpg",
+		},
+		
+		{
+			id: "about11",
+		   title: "屏東廠房418.2KW竣工",
 			description:
 				"2025年6月30日掛錶",
 			link: "/about",
