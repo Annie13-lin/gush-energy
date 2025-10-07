@@ -70,7 +70,7 @@ export function useIndexAbout() {
 			id: "about9",
 		   title: "義竹魚電496.495KW竣工",
 			description:
-				"2025年10月31日掛錶",
+				"2025年6月30日掛錶",
 			link: "/about",
 			path: "jpg0521.jpg",
 		},
