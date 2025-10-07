@@ -52,7 +52,7 @@ export function useIndexAbout() {
 		},
 		{
 			id: "about7",
-		   title: "斗六廠房750.6KW施工中",
+		   title: "斗六廠房750.6KW竣工",
 			description:
 				"2025年6月26日掛錶",
 			link: "/about",
@@ -60,7 +60,7 @@ export function useIndexAbout() {
 		},
 		{
 			id: "about8",
-		   title: "台中菇舍1329.36KW施工中",
+		   title: "台中菇舍1329.36KW竣工",
 			description:
 				"預計2025年7月31日掛錶",
 			link: "/about",
@@ -68,17 +68,17 @@ export function useIndexAbout() {
 		},
 		{
 			id: "about9",
-		   title: "義竹魚電344.44KW施工中",
+		   title: "義竹魚電344.44KW竣工",
 			description:
-				"預計2025年6月30日掛錶",
+				"2025年6月30日掛錶",
 			link: "/about",
 			path: "jpg0520.jpg",
 		},
 		{
 			id: "about10",
-		   title: "義竹魚電496.495KW施工中",
+		   title: "義竹魚電496.495KW竣工",
 			description:
-				"預計2025年6月30日掛錶",
+				"2025年6月30日掛錶",
 			link: "/about",
 			path: "jpg0521.jpg",
 		},		
