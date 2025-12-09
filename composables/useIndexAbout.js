@@ -78,7 +78,7 @@ export function useIndexAbout() {
 			id: "about10",
 		   title: "台中菇舍1329.36KW竣工",
 			description:
-				"預計2025年10月31日掛錶",
+				"2025年11月17日掛錶",
 			link: "/about",
 			path: "jpg0518.jpg",
 		},
@@ -86,7 +86,15 @@ export function useIndexAbout() {
 			id: "about11",
 		   title: "屏東廠房418.2KW竣工",
 			description:
-				"預計2025年10月31日掛錶",
+				"預計2025年12月31日前掛錶",
+			link: "/about",
+			path: "jpg0521.jpg",
+		},
+		{
+			id: "about12",
+		   title: "三芝廠房1544.99KW竣工",
+			description:
+				"預計2026年3月30日前掛錶",
 			link: "/about",
 			path: "jpg0521.jpg",
 		},		
