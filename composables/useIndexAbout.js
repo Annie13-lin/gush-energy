@@ -80,7 +80,7 @@ export function useIndexAbout() {
 			description:
 				"2025年11月17日掛錶",
 			link: "/about",
-			path: "jpg0518.jpg",
+			path: "jpg0523.jpg",
 		},
 		{
 			id: "about11",
@@ -88,7 +88,7 @@ export function useIndexAbout() {
 			description:
 				"預計2025年12月31日前掛錶",
 			link: "/about",
-			path: "jpg0521.jpg",
+			path: "jpg0524.jpg",
 		},
 		{
 			id: "about12",
