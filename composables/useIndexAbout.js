@@ -96,7 +96,7 @@ export function useIndexAbout() {
 			description:
 				"預計2026年3月30日前掛錶",
 			link: "/about",
-			path: "jpg0521.jpg",
+			path: "jpg0525.jpg",
 		},		
 	]);
 	const aboutDataActive = ref(0);
