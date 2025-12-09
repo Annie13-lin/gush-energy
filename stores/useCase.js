@@ -82,7 +82,7 @@ export const useCaseStore = defineStore("case", () => {
 			place: "菇寮",
 			capacity: "1329.36KW",
 			indexImagePath: "index_case_pic7.jpg",
-			caseImagePath: ["jpg0518.jpg"],
+			caseImagePath: ["jpg0523.jpg"],
 			content1: "每年發電量 1,795,302 度",
 			content2: "每年減碳量 896 噸",
 			content3: "相當於每年種 89,764 棵樹",
