@@ -11,71 +11,7 @@ export function useIndexAbout() {
 			path: "index_news_pic1.jpg",
 		},
 		{
-		 	id: "about2",
-			title: "高雄特登工廠244.08KW竣工",
-		 	description:
-		 		"2024年1月23日掛錶",
-		 	link: "/about",
-		 	path: "LINE_ALBUM_申騰空拍_231229_16.jpg",
-		 },
-		 {
-			id: "about3",
-		   title: "台南廠房487.92KW竣工",
-			description:
-				"2024年3月22日掛錶",
-			link: "/about",
-			path: "DJI_0508.jpg",
-		},
-		{
-			id: "about4",
-		   title: "高雄廠房393.12KW竣工",
-			description:
-				"2024年4月17日掛錶",
-			link: "/about",
-			path: "DJI_0628.jpg",
-		},
-		{
-			id: "about5",
-		   title: "屏東崁頂98.4KW竣工",
-			description:
-				"2025年5月19日掛錶",
-			link: "/about",
-			path: "jpg0519.jpg",
-		},
-		{
-			id: "about6",
-		   title: "高雄廠房178.06KW竣工",
-			description:
-				"2025年6月25日掛錶",
-			link: "/about",
-			path: "jpg0522.jpg",
-		},
-		{
-			id: "about7",
-		   title: "斗六廠房750.6KW竣工",
-			description:
-				"2025年6月26日掛錶",
-			link: "/about",
-			path: "jpg0514.jpg",
-		},
-		{
-			id: "about8",
-		   title: "義竹魚電344.44KW竣工",
-			description:
-				"2025年6月30日掛錶",
-			link: "/about",
-			path: "jpg0520.jpg",
-		},
-		{
-			id: "about9",
-		   title: "義竹魚電496.495KW竣工",
-			description:
-				"2025年6月30日掛錶",
-			link: "/about",
-			path: "jpg0521.jpg",
-		},
-		{
-			id: "about10",
+			id: "about2",
 		   title: "台中菇舍1329.36KW竣工",
 			description:
 				"2025年11月17日掛錶",
@@ -83,7 +19,7 @@ export function useIndexAbout() {
 			path: "jpg0523.jpg",
 		},
 		{
-			id: "about11",
+			id: "about3",
 		   title: "屏東廠房418.2KW竣工",
 			description:
 				"預計2025年12月31日前掛錶",
@@ -91,7 +27,7 @@ export function useIndexAbout() {
 			path: "jpg0524.jpg",
 		},
 		{
-			id: "about12",
+			id: "about4",
 		   title: "三芝廠房1544.99KW竣工",
 			description:
 				"預計2026年3月30日前掛錶",
