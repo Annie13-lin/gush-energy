@@ -82,7 +82,7 @@ export const useCaseStore = defineStore("case", () => {
 			place: "菇寮",
 			capacity: "1329.36KW",
 			indexImagePath: "index_case_pic7.jpg",
-			caseImagePath: ["jpg0523.jpg"],
+			caseImagePath: ["jpg0523.jpeg"],
 			content1: "每年發電量 1,795,302 度",
 			content2: "每年減碳量 896 噸",
 			content3: "相當於每年種 89,764 棵樹",
@@ -110,6 +110,18 @@ export const useCaseStore = defineStore("case", () => {
 			content1: "每年發電量 670,517 度",
 			content2: "每年減碳量 335 噸",
 			content3: "相當於每年種 33,525 棵樹",
+		},
+		{
+			sectionId: "case10",
+			buildType: "屋頂平鋪型",
+			city: "屏東縣枋寮鄉",
+			place: "廠房",
+			capacity: "1544.99KW",
+			indexImagePath: "index_case_pic9.jpg",
+			caseImagePath: ["jpg0530.jpg", "jpg0531.jpg"],
+			content1: "每年發電量 2,086,510 度",
+			content2: "每年減碳量 1042 噸",
+			content3: "相當於每年種 104,323 棵樹",
 		},
 	]);
 

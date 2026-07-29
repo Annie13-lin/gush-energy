@@ -6,7 +6,7 @@ export function useIndexAbout() {
 			id: "about1",
 			title: "湧業能源雲林光電維運案",
 			description:
-				"湧業能源於2023年7月承攬雲林地區著名製造業工廠13MＷ光電維運案",
+				"湧業能源於2023年7月承攬雲林地區著名製造業工廠2.6MＷ光電維運案",
 			link: "/about",
 			path: "index_news_pic1.jpg",
 		},
@@ -16,13 +16,13 @@ export function useIndexAbout() {
 			description:
 				"2025年11月17日掛錶",
 			link: "/about",
-			path: "jpg0523.jpg",
+			path: "jpg0523.jpeg",
 		},
 		{
 			id: "about3",
 		   title: "屏東廠房418.2KW竣工",
 			description:
-				"預計2025年12月31日前掛錶",
+				"2025年12月29日掛錶",
 			link: "/about",
 			path: "jpg0524.jpg",
 		},
@@ -30,9 +30,17 @@ export function useIndexAbout() {
 			id: "about4",
 		   title: "三芝廠房1544.99KW竣工",
 			description:
-				"預計2026年3月30日前掛錶",
+				"2026年5月19日掛錶",
 			link: "/about",
 			path: "jpg0525.jpg",
+		},	
+		{
+			id: "about5",
+		   title: "桃園平鎮國小屋頂499.31KW竣工",
+			description:
+				"2026年7月2日掛錶",
+			link: "/about",
+			path: "jpg0529.jpg",
 		},		
 	]);
 	const aboutDataActive = ref(0);
